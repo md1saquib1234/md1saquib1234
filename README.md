@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Mayank Agarwal
+# 👋 Hi, I'm MD Saquib Ansari
 
-🎯 *Aspiring Data Analyst | Power BI & Python Enthusiast | Growth Mindset*
+🎯 *Aspiring Web Developer | MongoDB Nodejs React Express | Growth Mindset*
 
 ---
 
 ## 🧠 About Me
 
 I'm currently pursuing my B.Tech in Computer Science at Dr. A.P.J. Abdul Kalam University, Lucknow (2022–2026).
-I'm passionate about turning raw data into actionable insights. Proficient in Python, SQL, Power BI, and Advanced Excel, I am adept at data cleaning, analysis, and visualization. I am actively seeking an entry-level Data Analyst role where I can apply my skills to solve complex business problems and contribute to a data-driven team.
 
 ---
 
