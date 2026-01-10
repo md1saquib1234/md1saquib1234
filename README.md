@@ -6,7 +6,29 @@
 
 ## 🧠 About Me
 
-I'm currently pursuing my B.Tech in Computer Science at Dr. A.P.J. Abdul Kalam University, Lucknow (2022–2026).
+👋 Hi, I'm MD.SAQUIB — a passionate Web Developer dedicated to building clean, efficient, and user‑friendly applications.
+ I'm currently pursuing my B.Tech in Computer Science at Dr. A.P.J. Abdul Kalam University, Lucknow (2022–2026).
+
+💻 **What I do:**
+- Craft responsive websites using **HTML, CSS, JavaScript, and TailwindCSS**
+- Develop dynamic applications with **Node.js, Express, and MongoDB**
+- Explore modern frameworks like **React** for interactive UIs
+- Apply strong foundations in **Discrete Mathematics, Logic, and AI concepts** to problem‑solving
+
+🚀 **Highlights:**
+- Experienced in troubleshooting and optimizing workflows
+- Skilled at breaking down complex problems into structured, step‑by‑step solutions
+- Hands‑on with mini projects (like building a music player 🎵)
+- Enthusiastic about learning new tools and contributing to open‑source projects
+
+📚 **Goals:**
+- Master advanced web technologies and compiler design
+- Contribute meaningful projects to the developer community
+- Keep growing as a persistent, resourceful, and detail‑oriented engineer
+
+🔗 **Let’s connect:**
+- Sharing code, ideas, and experiments here on GitHub
+- Always open to collaboration and learning opportunities
 
 ---
 
