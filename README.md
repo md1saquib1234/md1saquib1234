@@ -36,11 +36,11 @@
 
 | Tool/Language | Proficiency | Use Case |
 |---------------|-------------|----------|
-| **Power BI** | ⭐⭐⭐⭐ | Dashboard creation, data visualization |
-| **Excel** | ⭐⭐⭐⭐ | Data cleaning, pivot tables, charts |
+| **HTML & CSS** | ⭐⭐⭐⭐ | Building responsive and modern web layouts |
+| **JavaScript** | ⭐⭐⭐⭐ | Frontend logic, DOM manipulation, aysnc operations |
 | **SQL** | ⭐⭐⭐ | Querying databases, joining tables |
-| **Python** | ⭐⭐⭐ | Data analysis, pandas, matplotlib |
-| **Markdown** | ⭐⭐⭐ | Documentation, GitHub READMEs |
+| **Node.js** | ⭐⭐⭐ | Backend development, REST APIs |
+| **Express.js** | ⭐⭐⭐ | Server-side routing and middleware |
 | **Git & GitHub** | ⭐⭐⭐ | Version control, project hosting |
 
 ---
