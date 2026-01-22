@@ -55,9 +55,17 @@
 
 ## 🚀 Current Goals
 
-- ✅ working on an **Employee Salary Prediction Model** using Python and machine learning techniques.
-- ✅ Learn advanced SQL and Python for data manipulation.  
-- ✅ Create case studies with business impact summaries.
+- ✅ working on an **Employee Salary Prediction Model using Python and Machine Learning techniques.
+- ✅ Build full-stack MERN applications with scalable backend architecture and clean UI.
+- ✅ Strengthen expertise in MongoDB schema design and complex database queries.
+- ✅ Develop RESTful APIs using Node.js and Express.js with proper authentication and authorization (JWT).
+- ✅ Improve React.js performance, state management, and component reusability.
+- ✅ Implement secure user authentication, role-based access, and data validation.
+- ✅ Learn deployment workflows (Netlify, Vercel, Render) and environment configuration.
+- ✅ Practice Git & GitHub workflows including branching, pull requests, and collaboration.
+- ✅ Build real-world projects focusing on problem-solving and industry use cases.
+- ✅ Enhance debugging, error handling, and code optimization skills.
+- ✅ Prepare for technical interviews with DSA basics and MERN-related questions.
 
 ---
 
