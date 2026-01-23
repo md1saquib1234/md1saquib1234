@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm MD Saquib Ansari
 
 🎯 *Aspiring Web Developer | MongoDB Nodejs React Express | Growth Mindset*
@@ -69,4 +70,4 @@
 
 ---
 
-> *“Data is not just numbers—it's a story waiting to be told.”*
+> *👉 “MERN is not just a tech stack — it’s how ideas turn into real-world applications.”*
