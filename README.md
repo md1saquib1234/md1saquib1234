@@ -48,9 +48,9 @@
 
 ## 📊 Featured Projects
 
-### 🔹 [Global Food Production Dashboard](https://github.com/mayankagarwal424/Global-Food-Production-Analysis)
+### 🔹 [Zerodha Clone](https://github.com/mdlsaquib424/Global-Food-Production-Analysis)
 - Power BI dashboard analyzing food production trends across continents
-- Includes stakeholder Q&A, business problem framing, and actionable insights
+
 
 ---
 
